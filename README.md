@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View Solution](https://your-solution-url.com)
+- Solution URL: [View Solution](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-1lucR04lzq)
 - Live Site URL: [Watch Live](https://m-introsignup.netlify.app/)
 
 ## My process
